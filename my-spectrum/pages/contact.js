@@ -9,7 +9,7 @@ export default function Contact() {
         <main className="min-h-screen px-6 py-24 bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100">
           <h1 className="text-4xl font-bold mb-6">Contact Me</h1>
           <form
-            action="https://formspree.io/f/xnndokke" // ← ganti ini
+            action="https://formspree.io/f/xblygweo" // ← ganti ini
             method="POST"
             className="space-y-4 max-w-xl"
           >
